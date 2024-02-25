@@ -11,3 +11,4 @@ This repo contains a coolection of completed leetcode challenges. The challenges
 ### Easy
 - [X] Two Sum
 - [X] Longest Common Prefix
+- [X] Remove Element
