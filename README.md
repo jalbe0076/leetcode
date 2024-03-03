@@ -16,3 +16,4 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] Plus One
 - [X] Climbing Stairs
 - [X] Merge Sorted Array
+- [X] Valid Palindrome
