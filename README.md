@@ -17,3 +17,6 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] Climbing Stairs
 - [X] Merge Sorted Array
 - [X] Valid Palindrome
+
+### Medium
+- [X] Two Sum II - Input Array is Sorted
