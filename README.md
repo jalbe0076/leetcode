@@ -9,14 +9,16 @@ This repo contains a collection of completed leetcode challenges. The challenges
 
 ## Completed challenges:
 ### Easy
-- [X] Two Sum
-- [X] Longest Common Prefix
-- [X] Remove Element
-- [X] Find the Index of the First Occurrence in a String
-- [X] Plus One
-- [X] Climbing Stairs
-- [X] Merge Sorted Array
-- [X] Valid Palindrome
+- [X] 1. Two Sum
+- [X] 14. Longest Common Prefix
+- [X] 27. Remove Element
+- [X] 28. Find the Index of the First Occurrence in a String
+- [X] 66. Plus One
+- [X] 70. Climbing Stairs
+- [X] 88. Merge Sorted Array
+- [X] 125. Valid Palindrome
+- [X] 202. Happy Number
 
 ### Medium
-- [X] Two Sum II - Input Array is Sorted
+- [X] 38. Count and Say
+- [X] 167. Two Sum II - Input Array is Sorted
