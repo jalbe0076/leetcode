@@ -22,5 +22,6 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 338. Counting Bits
 
 ### Medium
+- [X] 12. Integer to Roman
 - [X] 38. Count and Say
 - [X] 167. Two Sum II - Input Array is Sorted
