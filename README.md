@@ -10,6 +10,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 ## Completed challenges:
 ### Easy
 - [X] 1. Two Sum
+- [X] 6. ZigZag Conversion
 - [X] 12. Integer to Roman
 - [X] 14. Longest Common Prefix
 - [X] 27. Remove Element
