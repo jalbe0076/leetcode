@@ -12,9 +12,9 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 1. Two Sum
 - [X] 12. Integer to Roman
 - [X] 14. Longest Common Prefix
+- [X] 20. Valid Parentheses
 - [X] 27. Remove Element
 - [X] 28. Find the Index of the First Occurrence in a String
-- [X] 6. ZigZag Conversion
 - [X] 66. Plus One
 - [X] 70. Climbing Stairs
 - [X] 88. Merge Sorted Array
@@ -24,6 +24,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 338. Counting Bits
 
 ### Medium
+- [X] 6. ZigZag Conversion
 - [X] 12. Integer to Roman
 - [X] 38. Count and Say
 - [X] 167. Two Sum II - Input Array is Sorted
