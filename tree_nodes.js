@@ -16,19 +16,19 @@ const arrayToTreeNode = (arr) => {
   let i = 1;
 
   while (i < arr.length) {
-      let current = queue.shift();
+    let current = queue.shift();
 
-      if (arr[i] !== null) {
-          current.left = new TreeNode(arr[i]);
-          queue.push(current.left);
-      }
-      i++;
+    if (arr[i] !== null) {
+      current.left = new TreeNode(arr[i]);
+      queue.push(current.left);
+    }
+    i++;
 
-      if (i < arr.length && arr[i] !== null) {
-          current.right = new TreeNode(arr[i]);
-          queue.push(current.right);
-      }
-      i++;
+    if (i < arr.length && arr[i] !== null) {
+      current.right = new TreeNode(arr[i]);
+      queue.push(current.right);
+    }
+    i++;
   }
 
   return root;
