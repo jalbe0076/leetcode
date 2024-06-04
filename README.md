@@ -25,6 +25,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 268. Missing Number
 - [X] 338. Counting Bits
 - [X] 492. Construct the Rectangle
+- [X] 495. Teemo Attacking
 
 ### Medium
 - [X] 6. ZigZag Conversion
