@@ -26,6 +26,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 338. Counting Bits
 - [X] 492. Construct the Rectangle
 - [X] 495. Teemo Attacking
+- [X] 860. Lemonade Change
 
 ### Medium
 - [X] 6. ZigZag Conversion
