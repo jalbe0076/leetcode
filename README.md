@@ -28,6 +28,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 495. Teemo Attacking
 - [X] 860. Lemonade Change
 - [X] 884. Uncommon Words From Two Sentences
+- [X] 1089. Duplicate Zeros
 
 ### Medium
 - [X] 6. ZigZag Conversion
