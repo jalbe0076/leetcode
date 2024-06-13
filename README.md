@@ -29,6 +29,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 860. Lemonade Change
 - [X] 884. Uncommon Words From Two Sentences
 - [X] 1089. Duplicate Zeros
+- [X] 1909. Remove One Element to Make the Array Strictly Increasing
 
 ### Medium
 - [X] 6. ZigZag Conversion
