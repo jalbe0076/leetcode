@@ -31,6 +31,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 1089. Duplicate Zeros
 - [X] 1909. Remove One Element to Make the Array Strictly Increasing
 - [X] 2437. Number of Valid Clock Times
+- [X] 2620. Counter
 
 ### Medium
 - [X] 6. ZigZag Conversion
