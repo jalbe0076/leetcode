@@ -10,6 +10,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 ## Completed challenges:
 ### Easy
 - [X] 1. Two Sum
+- [X] 9. Palindrome Number
 - [X] 13. Roman to Integer
 - [X] 14. Longest Common Prefix
 - [X] 20. Valid Parentheses
