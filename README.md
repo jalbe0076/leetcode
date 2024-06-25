@@ -18,6 +18,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 27. Remove Element
 - [X] 28. Find the Index of the First Occurrence in a String
 - [X] 35. Search Insert Position
+- [X] 58. Length of last word
 - [X] 66. Plus One
 - [X] 70. Climbing Stairs
 - [X] 88. Merge Sorted Array
