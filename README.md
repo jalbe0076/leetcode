@@ -23,6 +23,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 70. Climbing Stairs
 - [X] 88. Merge Sorted Array
 - [X] 100. Same Tree
+- [X] 118. Pascal's Triangle
 - [X] 125. Valid Palindrome
 - [X] 202. Happy Number
 - [X] 217. Contains Duplicate
