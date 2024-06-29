@@ -26,6 +26,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 118. Pascal's Triangle
 - [X] 125. Valid Palindrome
 - [X] 136. Single Number
+- [X] 190. Reverse Bits
 - [X] 202. Happy Number
 - [X] 217. Contains Duplicate
 - [X] 268. Missing Number
