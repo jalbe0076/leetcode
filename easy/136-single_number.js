@@ -21,19 +21,30 @@
     Each element in the array appears twice except for one element which appears only once.
 */
 
+// Refactored to solve with a linear runtime complexity and use only constant extra space
 const singleNumber = function(nums) {
-  const uniqueNum = new Set();
+  let uniqueNum = 0;
 
   for (num of nums) {
-      if (uniqueNum.has(num)) {
-          uniqueNum.delete(num);
-      } else {
-          uniqueNum.add(num);
-      }
+    uniqueNum ^= num;
   }
 
-  return uniqueNum.values().next().value;
-};
+  return uniqueNum;
+}
+
+// const singleNumber = function(nums) {
+//   const uniqueNum = new Set();
+
+//   for (num of nums) {
+//       if (uniqueNum.has(num)) {
+//           uniqueNum.delete(num);
+//       } else {
+//           uniqueNum.add(num);
+//       }
+//   }
+
+//   return uniqueNum.values().next().value;
+// };
 
 /*
   Example 1:
