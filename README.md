@@ -27,6 +27,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 125. Valid Palindrome
 - [X] 136. Single Number
 - [X] 190. Reverse Bits
+- [X] 191. Number of 1 Bits
 - [X] 202. Happy Number
 - [X] 217. Contains Duplicate
 - [X] 268. Missing Number
