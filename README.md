@@ -29,6 +29,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 190. Reverse Bits
 - [X] 191. Number of 1 Bits
 - [X] 202. Happy Number
+- [X] 205. Isomorphic Strings
 - [X] 217. Contains Duplicate
 - [X] 268. Missing Number
 - [X] 338. Counting Bits
