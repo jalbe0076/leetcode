@@ -20,6 +20,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 35. Search Insert Position
 - [X] 58. Length of last word
 - [X] 66. Plus One
+- [X] 67. Add Binary
 - [X] 70. Climbing Stairs
 - [X] 88. Merge Sorted Array
 - [X] 100. Same Tree
