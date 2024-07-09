@@ -26,6 +26,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 88. Merge Sorted Array
 - [X] 100. Same Tree
 - [X] 118. Pascal's Triangle
+- [X] 119. Pascal's Triangle II
 - [X] 125. Valid Palindrome
 - [X] 136. Single Number
 - [X] 190. Reverse Bits
