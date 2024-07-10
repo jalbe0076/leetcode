@@ -34,6 +34,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 202. Happy Number
 - [X] 205. Isomorphic Strings
 - [X] 217. Contains Duplicate
+- [X] 219. Contains Duplicate II
 - [X] 242. Valid Anagram
 - [X] 268. Missing Number
 - [X] 338. Counting Bits
