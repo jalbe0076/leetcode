@@ -51,6 +51,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 2620. Counter
 
 ### Medium
+- [X] 3. Longest Substring Without Repeating Characters
 - [X] 6. ZigZag Conversion
 - [X] 12. Integer to Roman
 - [X] 38. Count and Say
