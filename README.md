@@ -55,5 +55,6 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 6. ZigZag Conversion
 - [X] 12. Integer to Roman
 - [X] 38. Count and Say
+- [X] 46. Permutaions
 - [X] 167. Two Sum II - Input Array is Sorted
 - [X] 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
