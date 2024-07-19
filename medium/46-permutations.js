@@ -29,13 +29,9 @@ const permute = function(nums) {
       const perms = permute(nums.slice());
 
       for(let num of perms) {
-          console.log(perms, swappedNum)
-          num.push(swappedNum);
+        num.push(swappedNum);
       }
-      console.log('after second loop', perms)
-      console.log('result', result) 
       result.push(...perms);
-      console.log('result2', result, nums) 
       nums.push(swappedNum)
   };
 
