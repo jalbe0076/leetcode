@@ -54,6 +54,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 3. Longest Substring Without Repeating Characters
 - [X] 6. ZigZag Conversion
 - [X] 12. Integer to Roman
+- [X] 15. 3Sum
 - [X] 38. Count and Say
 - [X] 46. Permutaions
 - [X] 167. Two Sum II - Input Array is Sorted
