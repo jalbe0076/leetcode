@@ -20,3 +20,40 @@
   Constraints:
     1 <= m, n <= 100
 */
+
+const uniquePaths = function(m, n) {
+  const grid = [];
+
+  for(let i = 0; i < m; i++) {
+    if(i === 0) {
+      grid.push(Array(n).fill(1));
+    } else {
+      grid.push(Array(n).fill(0));
+      grid[i][0] = 1;
+    }
+  }
+
+  for(let i = 1; i < m; i++) {
+    for(let j = 1; j < n; j++) {
+      grid[i][j] = grid[i - 1][j] + grid[i][j - 1]; 
+    }
+  }
+
+  return grid[m - 1][n - 1];
+};
+
+/*
+  Example 1:
+    Input: m = 3, n = 7
+    Output: 28
+*/
+
+console.log('Example 1:', uniquePaths(3, 7));
+
+/*
+  Example 2:
+    Input: m = 3, n = 2
+    Output: 3
+*/
+
+console.log('Example 1:', uniquePaths(3, 2));
