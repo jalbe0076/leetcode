@@ -24,3 +24,31 @@
     obj is a valid JSON object or array
     2 <= JSON.stringify(obj).length <= 105
 */
+
+const isEmpty = function(obj) {
+  return Object.values(obj).length === 0;
+};
+
+/*
+Example 1:
+    Input: obj = {"x": 5, "y": 42}
+    Output: false
+*/
+
+console.log('Example 1: ', isEmpty({"x": 5, "y": 42}));
+
+/*
+  Example 2:
+    Input: obj = {}
+    Output: true
+*/
+
+console.log('Example 2: ', isEmpty({}));
+
+/*  
+  Example 3:
+    Input: obj = [null, false, 0]
+    Output: false
+*/
+
+console.log('Example 3: ', isEmpty([null, false, 0]));
