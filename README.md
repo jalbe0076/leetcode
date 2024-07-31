@@ -55,6 +55,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 6. ZigZag Conversion
 - [X] 12. Integer to Roman
 - [X] 15. 3Sum
+- [X] 18. 4Sum
 - [X] 22. Generate Parentheses
 - [X] 38. Count and Say
 - [X] 46. Permutaions
