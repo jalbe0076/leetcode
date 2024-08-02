@@ -59,5 +59,6 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 22. Generate Parentheses
 - [X] 38. Count and Say
 - [X] 46. Permutaions
+- [X] 62. Unique Paths
 - [X] 167. Two Sum II - Input Array is Sorted
 - [X] 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
