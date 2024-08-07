@@ -31,3 +31,51 @@
     0 <= calls.length <= 1000
     calls[i] is one of "increment", "decrement" and "reset"
 */
+
+const createCounter = function(init) {
+  let placeholder = init;
+
+  function increment() {
+    return placeholder += 1;
+  }
+
+  function decrement() {
+    return placeholder -= 1;
+  }
+
+  function reset() {
+    placeholder = init;
+    return init;
+  }
+  
+  return {
+    increment,
+    decrement,
+    reset
+  } 
+};
+
+/*
+  Example 1:
+    Input: init = 5, calls = ["increment","reset","decrement"]
+    Output: [6,5,4]
+*/
+const example1 = createCounter(5);
+console.log('Example 1:')
+console.log('increment - ', example1.increment());
+console.log('reset - ', example1.reset());
+console.log('decrement - ', example1.decrement());
+
+/*
+  Example 2:
+    Input: init = 0, calls = ["increment","increment","decrement","reset","reset"]
+    Output: [1,2,1,0,0]
+*/
+
+const example2 = createCounter(0);
+console.log('Example 2:')
+console.log('increment - ', example2.increment());
+console.log('increment - ', example2.increment());
+console.log('decrement - ', example2.decrement());
+console.log('reset - ', example2.reset());
+console.log('reset - ', example2.reset());
