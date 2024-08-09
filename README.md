@@ -49,6 +49,7 @@ This repo contains a collection of completed leetcode challenges. The challenges
 - [X] 2331. Evaluate Boolean Binary Tree
 - [X] 2437. Number of Valid Clock Times
 - [X] 2620. Counter
+- [X] 2665. Counter 2
 - [X] 2727. Is Object Empty
 
 ### Medium
